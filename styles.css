@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-  width: 400px;
+  width: 500px;
   margin: 60px auto;
   background: #fff;
   padding: 20px;
@@ -33,7 +33,7 @@ h1 {
 #addBtn {
   padding: 10px 20px;
   border: none;
-  background: #007bff;
+  background: #51b107;
   color: white;
   border-radius: 5px;
   cursor: pointer;
